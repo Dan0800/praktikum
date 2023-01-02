@@ -1,2 +1,2 @@
 # praktikum
-praktikum interfacing
+praktikum framework
